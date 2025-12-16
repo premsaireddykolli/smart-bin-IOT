@@ -54,6 +54,12 @@ When a user approaches the bin, the lid opens automatically. The system then det
 6. Buzzer alerts user during operation  
 
 ---
+## connections
+## 📷 Project Image
+![Smart Waste Segregation System](connections.jpeg)
+## cad image
+![Smart Waste Segregation System](cad.png)
+
 
 
 ---
